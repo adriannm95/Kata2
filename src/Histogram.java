@@ -1,7 +1,7 @@
 import java.util.HashMap;
 import java.util.Map;
 
-public class Histogram <T>{
+public class Histogram<T> {
 
     private final T[] DATA;
 
